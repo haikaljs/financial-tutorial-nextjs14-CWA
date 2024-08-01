@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1722539703561,
+      "tag": "0000_romantic_clea",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1722540666071,
+      "tag": "0001_dusty_rafael_vega",
+      "breakpoints": true
+    }
+  ]
+}
